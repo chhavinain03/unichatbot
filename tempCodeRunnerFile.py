@@ -1,0 +1,1 @@
+langchain.embeddings.gemini
