@@ -1,5 +1,5 @@
 
-Python== 3.11.3
+
 langchain==0.3.16
 langchain-google-genai==2.0.9
 langchain_community==0.3.14
