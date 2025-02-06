@@ -1,6 +1,7 @@
 langchain==0.3.16
 chromadb==0.6.3
 langchain-google-genai==2.0.9
+langchain_community==0.3.14
 google-generativeai==0.8.4
 pypdf==5.2.0
 streamlit==1.42.0
