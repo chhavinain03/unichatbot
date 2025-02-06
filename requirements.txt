@@ -1,6 +1,5 @@
-import pysqlite3
-import sys
-sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
+
+Python== 3.11.3
 langchain==0.3.16
 langchain-google-genai==2.0.9
 langchain_community==0.3.14
