@@ -13,7 +13,7 @@ from pypdf import PdfReader
 import streamlit as st
 
 # Replace with your actual key
-GOOGLE_API_KEY = "AIzaSyAbu3uErPECsNdKxJ6AIEQ1UXmGwG1WlCI"  # Replace with your actual API Key
+GOOGLE_API_KEY = ""  # Replace with your actual API Key
 genai.configure(api_key=GOOGLE_API_KEY)
 
 warnings.filterwarnings("ignore")
